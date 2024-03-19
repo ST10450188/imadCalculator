@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <integer name="etNum1"> </integer>
+    <integer name="etNum2"> </integer>
+    <string name="btnAdd">Addition</string>
+    <string name="btnSub">Subtraction</string>
+    <string name="btnMul">Multiplication</string>
+    <string name="btnDiv">Divison</string>
+    <string name="tvDisplay">Answer </string>
+</resources>
